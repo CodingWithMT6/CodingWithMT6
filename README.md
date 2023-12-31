@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codingWithMT6&label=Profile%20views&color=0e75b6&style=flat" alt="codingWithMT6" /> </p>
 <!--
 **CodingWithMT6/CodingWithMT6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
